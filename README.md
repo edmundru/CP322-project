@@ -1,5 +1,5 @@
 # CP322-project
-CP468 AI course final project files
+CP322 Machine Learning final project 
 
 NBA Dataset Analysis with Model Training
 
